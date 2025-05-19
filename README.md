@@ -4,6 +4,11 @@
 > status: exploring systems
 > access granted_
 
+<p align="center">
+  <img src="https://i.imgur.com/qQzFP8u.jpeg" alt="banner" />
+</p>
+
+
 I'm passionate about tech, always learning, building, and exploring new things in the digital world. I use arch linux as a daily driver.
 
 Interests:
