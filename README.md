@@ -6,13 +6,13 @@
 
 I'm passionate about tech, always learning, building, and exploring new things in the digital world. I use arch linux as a daily driver.
 
-### Interests
+Interests:
 - Programming & Software Development  
 - Cybersecurity & Privacy  
 - Open Source  
 - Linux & Customization  
 
-### Skills
+Skills:
 - **Languages**: Python, C++, JavaScript  
 - **Frameworks/Tools**: React  
 - **Tech Areas**: Cybersecurity, Linux systems
