@@ -1,4 +1,3 @@
-```txt
 > initializing profile...
 > user: aggy
 > pronouns: he/him
