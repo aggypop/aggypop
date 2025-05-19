@@ -1,16 +1,24 @@
-## Hi there 👋
+```txt
+> initializing profile...
+> user: aggy
+> pronouns: he/him
+> status: exploring systems
+> access granted_
 
-<!--
-**aggypop/aggypop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about tech, always learning, building, and exploring new things in the digital world. I use arch linux as a daily driver.
 
-Here are some ideas to get you started:
+### Interests
+- Programming & Software Development  
+- Cybersecurity & Privacy  
+- Open Source  
+- Linux & Customization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Languages**: Python, C++, JavaScript  
+- **Frameworks/Tools**: React  
+- **Tech Areas**: Cybersecurity, Linux systems
+
+Feel free to explore my repos — most of them are experimental, learning-based, or just fun projects.
+
+---
+*always building and breaking things.*
