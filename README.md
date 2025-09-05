@@ -19,7 +19,6 @@ Interests:
 
 Skills:
 - **Languages**: Python, C++, JavaScript  
-- **Frameworks/Tools**: React  
 - **Tech Areas**: Cybersecurity, Linux systems
 
 Feel free to explore my repos — most of them are experimental, learning-based, or just fun projects.
