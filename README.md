@@ -9,13 +9,14 @@
 </p>
 
 
-I'm passionate about tech, always learning, building, and exploring new things in the digital world. I use arch linux as a daily driver.
+I'm passionate about tech, always learning, building, and exploring new things in the digital world.
 
 Interests:
 - Programming & Software Development  
 - Cybersecurity & Privacy  
 - Open Source  
-- Linux & Customization  
+- Linux & Customization
+- AI 
 
 Skills:
 - **Languages**: Python, C++, JavaScript  
