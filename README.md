@@ -9,7 +9,7 @@
 </p>
 
 
-I'm passionate about tech, always learning, building, and exploring new things in the digital world.
+I'm passionate about tech, always learning, building, and exploring new things in the digital world...
 
 Interests:
 - Programming & Software Development  
